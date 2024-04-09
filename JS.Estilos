@@ -77,3 +77,12 @@ import CarouselExemplo from './exmplos/CarouselExemplo';
 import styles from './style/estilo;'
 
 export defaut function App() {}
+
+import React, {useState } from 'react';
+import {view, Button } from 'react-native';
+import FlatListExemplo from './exemplo/FlatListExemplo';
+import SctionListExemplo from './exemplo/ SectionListExemplo';
+import ScrollViewExemplo from './exemplos/scrollViewExemplo';
+import CarouselExemoplo from './exemplo/CarouselExemoplo';
+import styles drom './style/estilo';
+
